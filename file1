@@ -1,3 +1,8 @@
 Hello world!!!
 12345
+<<<<<<< HEAD
 good evening (from master)
+=======
+line from user2
+line from user1
+>>>>>>> 2990ab29df3259fd4acf0d05a31c9df0d66ccdcd
